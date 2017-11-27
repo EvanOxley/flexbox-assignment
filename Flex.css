@@ -1,6 +1,5 @@
 * { box-sizing: border-box; }
 
-
 [class^="box"] {
   color:aquamarine;
   font-size: 100px;
@@ -68,3 +67,5 @@
 .box10 {
     width: 32%;
 }
+
+@media screen and (max-width:480px) {}
